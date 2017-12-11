@@ -1,0 +1,19 @@
+
+.wrap{
+  width:170px;
+  height:90px;
+  background-color: white;
+  text-align: center;
+  margin : auto;
+  margin-top:45px;
+}
+.btn{
+  width:145px;
+  height:45px;
+  font-size:24px;
+  color:crimson;
+  background-color:cornflowerblue;
+  text-align: center;
+  border:none;
+  margin-top:25px;
+}
